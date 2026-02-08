@@ -79,6 +79,11 @@ An interactive PowerBI dashboard was created to communicate insights clearly to 
 * Bar and column charts: revenue and sales by category and age group
 * Slicers: gender, category, subscription status, shipping type
 
+<img width="1375" height="772" alt="image" src="https://github.com/user-attachments/assets/1c0e18a4-88dc-4541-9940-1e473f1bfe3b" />
+<img width="1379" height="853" alt="image" src="https://github.com/user-attachments/assets/c075091a-d459-47f2-bf70-00680d146ec4" />
+
+
+
 The dashboard emphasizes **clarity, consistency, and executive-friendly design**.
 
 ---
